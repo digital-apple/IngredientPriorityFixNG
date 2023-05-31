@@ -1,4 +1,4 @@
-# Alchemy Priority Fix NG
+# Ingredient Priority Fix NG
 
 * [Nexus Page](https://www.nexusmods.com/)
 
@@ -8,7 +8,7 @@
 * C++23 Compiler (MSVC)
 
 ## Build
-```bat
+```
 xmake build
 ```
 
