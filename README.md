@@ -8,7 +8,7 @@
 * C++23 Compiler (MSVC)
 
 ## Build
-```
+```bat
 xmake build
 ```
 
