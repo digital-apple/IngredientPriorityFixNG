@@ -1,6 +1,6 @@
 # Ingredient Priority Fix NG
 
-* [Nexus Page](https://www.nexusmods.com/)
+* [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/92558)
 
 ### Requirements
 
